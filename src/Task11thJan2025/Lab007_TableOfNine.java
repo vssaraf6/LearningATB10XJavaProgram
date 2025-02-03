@@ -1,7 +1,10 @@
+package Task11thJan2025;
+
 public class Lab007_TableOfNine {
     public static void main(String[] args) {
 
         int a = Integer.parseInt(args[0]);
+        String name = "Vaishali";
 
             System.out.printf("%d*1=%d\n", a, a);
             System.out.printf("%d*2=%d\n", a,a*2);

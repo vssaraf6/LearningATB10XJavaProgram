@@ -1,3 +1,5 @@
+package Taks29thJan2025;
+
 import java.util.Scanner;
 
 public class Lab012_EvenOdd {

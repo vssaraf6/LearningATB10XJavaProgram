@@ -1,3 +1,5 @@
+package Taks25thJan2025;
+
 public class Lab008_FizzBuzz {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package Taks25thJan2025;
+
 public class Lab009_Vowel_Consonant {
     public static void main(String[] args) {
 

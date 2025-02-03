@@ -1,3 +1,5 @@
+package Taks19thJan2025_Part1;
+
 import java.util.Scanner;
 
 public class Lab002_GradeCalculator {

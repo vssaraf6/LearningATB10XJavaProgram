@@ -1,5 +1,4 @@
-import java.sql.SQLOutput;
-import java.util.Scanner;
+package Taks25thJan2025;
 
 public class Lab010_PalindromString {
     public static void main(String[] args) {
